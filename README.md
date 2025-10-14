@@ -32,13 +32,6 @@ That’s it.
   - Implement keyword/intent matching
   - Call a backend or model API (ensure you do this securely—see Security below)
 
-## Security
-
-- Do not embed secrets or API keys in client-side code. If you integrate an API:
-  - Use a server-side endpoint to store and use credentials safely
-  - Validate and sanitize user input
-  - Add CORS and rate limiting where appropriate
-
 ## Folder Structure
 
 - `chatbot.html` — The entire app (HTML, CSS, and JS in one file)
