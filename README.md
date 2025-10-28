@@ -1,6 +1,6 @@
 # Inspire Simple Chatbot
 
-A minimal, single-file HTML chatbot you can open in any modern browser. It’s designed to be easy to read, copy, and extend—perfect for learning, demos, or adding a lightweight chat UI to a static site.
+A minimal, single-file HTML chatbot you can open in any modern browser. It’s designed to be easy to read, copy, and extend—perfect for learning, demos, or adding a lightweight chat UI to a static site
 
 ## Features
 
